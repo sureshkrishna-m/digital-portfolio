@@ -1,0 +1,4 @@
+.DS_Store
+.playwright-mcp/
+.vscode/
+assets/images/
