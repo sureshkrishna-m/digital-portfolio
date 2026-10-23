@@ -304,15 +304,15 @@ h3 {
 
 .hero h1 {
     margin-bottom: 0.9rem;
-    font-size: clamp(2.65rem, 6vw, 4.99rem);
-    font-weight: 760;
-    letter-spacing: -0.075em;
-    line-height: 1.02;
+    font-size: clamp(2.25rem, 4.6vw, 3.8rem);
+    font-weight: 740;
+    letter-spacing: -0.06em;
+    line-height: 1.08;
 }
 
 .hero h1 span {
     color: var(--accent);
-    font-size: clamp(1.8rem, 4.7vw, 4.4rem);
+    font-size: clamp(1.6rem, 3.7vw, 3.05rem);
     white-space: nowrap;
 }
 
@@ -1164,11 +1164,11 @@ h3 {
     }
 
     .hero h1 {
-        font-size: clamp(2.4rem, 12vw, 3.25rem);
+        font-size: clamp(2.1rem, 10vw, 2.75rem);
     }
 
     .hero h1 span {
-        font-size: clamp(1.65rem, 7.5vw, 2.2rem);
+        font-size: clamp(1.45rem, 7vw, 1.9rem);
     }
 
     .eyebrow {
